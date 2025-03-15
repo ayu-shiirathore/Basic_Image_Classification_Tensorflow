@@ -38,10 +38,3 @@
 ---
 
 
-
----
-
-## Contact
-
-Email: your-email@example.com  
-GitHub: [https://github.com/yourusername](https://github.com/yourusername)
